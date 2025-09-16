@@ -52,7 +52,7 @@ This project explores how finals weeks at Boston universities align with spikes 
 ---
 
 ## How AI Helped
-- Assisted with repetitive tasks like generating rolling averages and plotting templates.  
+- Assisted with repetitive tasks like generating rolling averages.  
 - Supported narrative framing, but **all analysis, cleaning, and interpretation were my own work**.  
 
 ---
